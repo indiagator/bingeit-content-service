@@ -1,9 +1,6 @@
-/home/indiagator/IdeaProjects/jdev25-auth-service/src/main/java/com/secor/jdev25authservice/AppConfig.java
-/home/indiagator/IdeaProjects/jdev25-auth-service/src/main/java/com/secor/jdev25authservice/Credential.java
-/home/indiagator/IdeaProjects/jdev25-auth-service/src/main/java/com/secor/jdev25authservice/CredentialRepository.java
-/home/indiagator/IdeaProjects/jdev25-auth-service/src/main/java/com/secor/jdev25authservice/Jdev25AuthServiceApplication.java
-/home/indiagator/IdeaProjects/jdev25-auth-service/src/main/java/com/secor/jdev25authservice/LoggingWebClientFilter.java
-/home/indiagator/IdeaProjects/jdev25-auth-service/src/main/java/com/secor/jdev25authservice/MainRestController.java
-/home/indiagator/IdeaProjects/jdev25-auth-service/src/main/java/com/secor/jdev25authservice/RedisConfig.java
-/home/indiagator/IdeaProjects/jdev25-auth-service/src/main/java/com/secor/jdev25authservice/UserDetail.java
-/home/indiagator/IdeaProjects/jdev25-auth-service/src/main/java/com/secor/jdev25authservice/UserDetailView.java
+/home/indiagator/IdeaProjects/bingeit-content-service/src/main/java/com/secor/contentservice/AppConfig.java
+/home/indiagator/IdeaProjects/bingeit-content-service/src/main/java/com/secor/contentservice/AuthService.java
+/home/indiagator/IdeaProjects/bingeit-content-service/src/main/java/com/secor/contentservice/ContentServiceApplication.java
+/home/indiagator/IdeaProjects/bingeit-content-service/src/main/java/com/secor/contentservice/LoggingWebClientFilter.java
+/home/indiagator/IdeaProjects/bingeit-content-service/src/main/java/com/secor/contentservice/MainRestController.java
+/home/indiagator/IdeaProjects/bingeit-content-service/src/main/java/com/secor/contentservice/RedisConfig.java

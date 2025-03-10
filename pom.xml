@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.secor</groupId>
     <artifactId>content-service</artifactId>
-    <version>prod-1</version>
+    <version>dev-1</version>
     <name>content-service</name>
     <description>content-service</description>
     <url/>
